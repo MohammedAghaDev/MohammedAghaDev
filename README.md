@@ -1,12 +1,21 @@
 <div align="center">
 
-# Mohammed Agha
+<h1>Mohammed Agha</h1>
 
-### Independent iOS Jailbreak Developer  
-Building premium tweaks, themes, and tools for modern iOS.
+<h3>Independent iOS Jailbreak Developer</h3>
 
-[![X](https://img.shields.io/badge/X-@mohammed__agha10-00C2FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohammed_agha10)
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-FFD32A?style=for-the-badge&logo=paypal&logoColor=001B44)](https://paypal.me/Alubaidi)
+<p>
+Building premium tweaks, themes, and tools for modern rootless iOS.
+</p>
+
+<p>
+  <a href="https://x.com/mohammed_agha10">
+    <img src="https://img.shields.io/badge/X-@mohammed__agha10-00C2FF?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://paypal.me/Alubaidi">
+    <img src="https://img.shields.io/badge/PayPal-Donate-FFD32A?style=for-the-badge&logo=paypal&logoColor=001B44">
+  </a>
+</p>
 
 </div>
 
@@ -14,7 +23,7 @@ Building premium tweaks, themes, and tools for modern iOS.
 
 ## About Me
 
-I am an independent iOS jailbreak developer focused on creating clean, modern, and powerful experiences for rootless iOS.
+I am an independent iOS jailbreak developer focused on building clean, modern, and powerful experiences for rootless iOS.
 
 My work focuses on:
 
@@ -28,60 +37,105 @@ My work focuses on:
 
 ## Current Projects
 
-### UltraDock
+<table>
+<tr>
+<td width="33%">
+
+### ⚡ UltraDock
 
 Advanced Dock customization for iOS 15 and iOS 16.
 
-Features:
+**Features**
 
 - Live Dock Preview
 - Icon size control
 - Icon spacing control
 - Maximum Dock icons
-- Modern Settings interface
+- Modern Settings UI
 - Rootless support
 
-Status: Active
+**Status:** Active
 
----
+</td>
+<td width="33%">
 
-### Home Style Ultra
+### 🎨 Home Style Ultra
 
 A full theme engine and visual customization project for iOS.
 
-Status: In Development
+**Focus**
 
----
+- Theme support
+- Icon customization
+- UI customization
+- Rootless compatibility
 
-### AghaRepo
+**Status:** In Development
+
+</td>
+<td width="33%">
+
+### 📦 AghaRepo
 
 A future professional repository platform for tweaks, themes, icons, and tools.
 
-Status: Planned
+**Goal**
+
+- Package publishing
+- Screenshots
+- Changelogs
+- Depictions
+- Dashboard
+
+**Status:** Planned
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-![Objective-C](https://img.shields.io/badge/Objective--C-1E90FF?style=flat-square)
-![Theos](https://img.shields.io/badge/Theos-000000?style=flat-square)
-![UIKit](https://img.shields.io/badge/UIKit-00C2FF?style=flat-square)
-![Rootless](https://img.shields.io/badge/Rootless-FFD32A?style=flat-square)
-![iOS](https://img.shields.io/badge/iOS-15%20%7C%2016-lightgrey?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Objective--C-00C2FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Theos-0B0F1A?style=for-the-badge">
+<img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Rootless-FFD32A?style=for-the-badge">
+<img src="https://img.shields.io/badge/iOS-15%20%7C%2016-A6B0C3?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge">
+
+</p>
 
 ---
 
 ## Developer Identity
 
-Mohammed Agha Development is focused on building premium jailbreak experiences with a clean design language, strong performance, and long-term support.
+**Mohammed Agha Development** is focused on building premium jailbreak experiences with clean design, strong performance, and long-term support.
 
-Color system:
+**Brand Colors**
 
-- Electric Blue
-- Premium Gold
-- Midnight Black
-- Frost White
+| Color | Hex |
+|---|---|
+| Electric Blue | `#00C2FF` |
+| Premium Gold | `#FFD32A` |
+| Midnight Black | `#0B0F1A` |
+| Frost White | `#F5F7FA` |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedAghaDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C2FF&icon_color=FFD32A">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAghaDev&layout=compact&theme=tokyonight&hide_border=true&title_color=00C2FF">
+
+</div>
 
 ---
 
@@ -95,5 +149,7 @@ Color system:
 <div align="center">
 
 ### Building premium iOS jailbreak experiences.
+
+**Premium Design • Rootless Support • Modern Tweaks**
 
 </div>
