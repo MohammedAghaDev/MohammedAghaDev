@@ -1,155 +1,134 @@
 <div align="center">
 
-<h1>Mohammed Agha</h1>
+# Mohammed Agha
 
-<h3>Independent iOS Jailbreak Developer</h3>
+### Independent iOS Jailbreak Developer
 
-<p>
-Building premium tweaks, themes, and tools for modern rootless iOS.
-</p>
+Building premium tweaks, themes and tools for modern rootless iOS.
 
 <p>
-  <a href="https://x.com/mohammed_agha10">
-    <img src="https://img.shields.io/badge/X-@mohammed__agha10-00C2FF?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-  <a href="https://paypal.me/Alubaidi">
-    <img src="https://img.shields.io/badge/PayPal-Donate-FFD32A?style=for-the-badge&logo=paypal&logoColor=001B44">
-  </a>
+
+<a href="https://x.com/mohammed_agha10">
+<img src="https://img.shields.io/badge/X-@mohammed__agha10-111827?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="https://paypal.me/Alubaidi">
+<img src="https://img.shields.io/badge/PayPal-Donate-FFD32A?style=for-the-badge&logo=paypal&logoColor=001B44">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=MohammedAghaDev&label=Profile+Views&color=00C2FF&style=for-the-badge">
+
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=28&duration=3500&pause=1500&color=00C2FF&center=true&vCenter=true&width=900&lines=Creator+of+UltraDock;Independent+iOS+Developer;Building+Premium+Rootless+Tweaks;Welcome+to+Mohammed+Agha+Development">
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-I am an independent iOS jailbreak developer focused on building clean, modern, and powerful experiences for rootless iOS.
+I am an independent jailbreak developer focused on creating premium tweaks with modern UI, clean code and long-term support.
 
-My work focuses on:
+### Main Focus
 
-- Rootless jailbreak tweaks
-- iOS customization
+- Rootless Jailbreak Tweaks
+- UIKit Development
+- Objective-C
 - Modern Settings UI
-- Themes and visual experiences
-- Tools for Sileo, Zebra, and Dopamine users
+- Performance Optimization
+- Sileo & Zebra Packages
 
 ---
 
-## Current Projects
+# Current Projects
 
-<table>
-<tr>
-<td width="33%">
-
-### ⚡ UltraDock
-
-Advanced Dock customization for iOS 15 and iOS 16.
-
-**Features**
-
-- Live Dock Preview
-- Icon size control
-- Icon spacing control
-- Maximum Dock icons
-- Modern Settings UI
-- Rootless support
-
-**Status:** Active
-
-</td>
-<td width="33%">
-
-### 🎨 Home Style Ultra
-
-A full theme engine and visual customization project for iOS.
-
-**Focus**
-
-- Theme support
-- Icon customization
-- UI customization
-- Rootless compatibility
-
-**Status:** In Development
-
-</td>
-<td width="33%">
-
-### 📦 AghaRepo
-
-A future professional repository platform for tweaks, themes, icons, and tools.
-
-**Goal**
-
-- Package publishing
-- Screenshots
-- Changelogs
-- Depictions
-- Dashboard
-
-**Status:** Planned
-
-</td>
-</tr>
-</table>
+| Project | Description | Status |
+|----------|-------------|--------|
+| ⚡ UltraDock | Advanced Dock Customization for iOS 15/16 | 🟢 Active |
+| 🎨 Home Style Ultra | Complete Theme Engine | 🟡 Development |
+| 📦 AghaRepo | Professional Repository Platform | 🔵 Planning |
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Objective--C-00C2FF?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Theos-0B0F1A?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Rootless-FFD32A?style=for-the-badge">
-<img src="https://img.shields.io/badge/iOS-15%20%7C%2016-A6B0C3?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/iOS-15%20%7C%2016-lightgrey?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge">
 
 </p>
 
 ---
 
-## Developer Identity
-
-**Mohammed Agha Development** is focused on building premium jailbreak experiences with clean design, strong performance, and long-term support.
-
-**Brand Colors**
-
-| Color | Hex |
-|---|---|
-| Electric Blue | `#00C2FF` |
-| Premium Gold | `#FFD32A` |
-| Midnight Black | `#0B0F1A` |
-| Frost White | `#F5F7FA` |
-
----
-
-## GitHub Stats
+# GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedAghaDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C2FF&icon_color=FFD32A">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammedAghaDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAghaDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAghaDev&layout=compact&theme=tokyonight&hide_border=true&title_color=00C2FF">
+<img src="https://streak-stats.demolab.com?user=MohammedAghaDev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Contact
+# 2026 Roadmap
 
-- X: [@mohammed_agha10](https://x.com/mohammed_agha10)
-- PayPal: [paypal.me/Alubaidi](https://paypal.me/Alubaidi)
+- ✅ UltraDock
+- 🚧 Home Style Ultra
+- 🚧 AghaRepo
+- ⏳ Developer Website
+- ⏳ Official Repository
+- ⏳ Documentation Center
+
+---
+
+# Developer Identity
+
+### Mohammed Agha Development
+
+Premium Rootless Tweaks
+
+Modern UI Design
+
+Performance First
+
+Long-Term Support
+
+---
+
+# Contact
+
+- X: https://x.com/mohammed_agha10
+- PayPal: https://paypal.me/Alubaidi
 
 ---
 
 <div align="center">
 
-### Building premium iOS jailbreak experiences.
+## Thanks for visiting my profile
 
-**Premium Design • Rootless Support • Modern Tweaks**
+Building premium jailbreak experiences for the community.
+
+⭐ Don't forget to follow my work.
 
 </div>
